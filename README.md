@@ -1,2 +1,0 @@
-# Empathy-map
-Empathy map
